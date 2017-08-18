@@ -1,0 +1,5 @@
+*.log
+*.mp4
+/.vagrant
+/vendor
+error_log*
